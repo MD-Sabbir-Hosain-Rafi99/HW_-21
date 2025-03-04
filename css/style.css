@@ -2,3 +2,13 @@
     margin: 0;
     padding: 0;
 }
+
+#bodyOneImages{
+    background: rgb(163, 195, 233);
+    padding: 150px 0;
+}
+.headingOne{
+    font-weight: bold;
+    margin-bottom: 40px;
+    text-align: center;
+}
